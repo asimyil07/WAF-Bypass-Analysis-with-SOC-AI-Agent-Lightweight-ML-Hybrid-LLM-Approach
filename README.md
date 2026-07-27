@@ -1,0 +1,2 @@
+# WAF-Bypass-Analysis-with-SOC-AI-Agent-Lightweight-ML-Hybrid-LLM-Approach
+WAF bypass alerts on SIEM systems generate significant false positives and alert noise.  While sending all traffic to an LLM is costly, delaying detection until after the application has been compromised poses a major risk. We found the solution in a hybrid architecture combining a small, specialized ML model with an LLM.    
