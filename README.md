@@ -74,3 +74,5 @@ Close verified non-malicious alerts directly in QRadar:
 
 Bash
 python close_offenses.py
+
+<img width="950" height="1320" alt="gemini-svg" src="https://github.com/user-attachments/assets/d7f2fb64-8de9-4273-9bd8-c49d1475fc9f" />
